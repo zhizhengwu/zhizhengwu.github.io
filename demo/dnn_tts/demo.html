@@ -1,0 +1,351 @@
+
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=Unicode">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32698704-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+    <link href="/Content/css?v=aogmTWkmAC3xlsoC6mlx_5i2zCsKL8rC-rHUnFUDBwg1" rel="stylesheet"/>
+
+    
+    <style type="text/css">
+        .title {
+            text-align: center;
+        }
+
+        table.table, table.table thead, table.table tbody, table.table tr {
+            width: 100%;
+        }
+
+            table.table tr > td {
+                font-weight: bold;
+                font-size: 1.2em;
+                vertical-align: middle;
+                border-right: 2px solid black;
+            }
+
+            table.table tr > td:nth-child(even) {
+                border-right: 1px solid #bbb;
+            }
+
+            table.table thead {
+                background-color: #f5f5f5;
+            }
+
+        table.table tr > td.name {
+            text-align: center;
+            border-right: 2px solid black; !important;
+        }
+
+        .author {
+            font-style: italic;
+        }
+
+        .affiliations {
+            vertical-align: bottom;
+            margin-top: 25px;
+            margin-bottom: -30px;
+        }
+
+            .affiliations > div + div {
+                text-align: right;
+            }
+
+            .affiliations img {
+                max-width: 150px;
+                margin-left: 10px;
+            }
+
+                .affiliations img.edinburgh {
+                    height: 75px;
+                }
+
+                .affiliations img.ntu {
+                    margin-top: 10px;
+                }
+
+        .imgButton {
+            height: 20px;
+        }
+
+        .samples {
+            text-align: center;
+        }
+
+        /*.samples .sample:nth-child(even) {
+            text-align: right;
+        }
+
+        .samples.odd .sample:nth-child(even) {
+            text-align: left;
+        }
+
+        .samples .sample:nth-child(odd) {
+            text-align: left;
+        }
+
+        .samples.odd .sample:nth-child(odd) {
+            text-align: right;
+        }*/
+
+        .proposed {
+            font-style: italic;
+            background-color: #ddd;
+        }
+    </style>
+
+    <script src="/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
+
+<title>DNN TTS</title>
+</head><body alink="#ff0000" bgcolor="#ffffff" text="#000000" vlink="#760076" link="#0000a3">
+<center>
+<a name="top"></a>
+
+<table width="1000">
+<tbody><tr>
+<td>
+
+<hr> <center> <h2>Deep Neural Networks Employing Multi-Task Learning and Stacked Bottleneck Features for Speech Synthesis</h2> </center>
+<hr>
+
+<h4>Samples to support the ICASSP 2015 submission titled above. More details can be found in our paper. If you have any questions, please drop me an email: zhizheng.wu {at} ed.ac.uk (Zhizheng Wu)</h4>
+<hr>
+<P> <b>This page contains following samples:</b><br>
+<ol> 
+<li><b>Copy-Synthesis</b>: Use STRAIGHT to extract 60-dimensional Mel-Cepstral Coefficients (MCCs), 25 band aperiodicities (BAPs) and fundamental frequency (F0), and then pass these parameters directly to STRAIGHT-vocoder to reconstract waveform.
+<li><b>HMM-GV</b>: Baseline HMM system, implemented by HTS. Global variance is applied when generating the acoustic parameters.</li>
+<li><b>DNN</b>: Baseline DNN system. </li>
+<li><b>MTLDNN (Formants)</b>: Multi-Task Learning (MTL) DNN using formant tracks (F1-F4) as the secondary task. </li>
+<li><b>MTLDNN (LSF)</b>: MTLDNN using 40-dimensional linear spectrum frequencies (LSFs) as the secondary task. </li>
+<li><b>MTLDNN (Gammatone)</b>: MTLDNN using 64-dimensional Gammatone spectra as the secondary task. </li>
+<li><b>MTLDNN (STEP)</b>: MTLDNN using 55-dimensional spectro-temporal excitation pattern (STEP) feature as the secondary task. </li>
+<li><b>DNN-DNN</b>: DNN with stacked bottleneck features. A first DNN is used to extract 128-dimensional bottleneck features. They are stacked with linguistic features as input to a second DNN to predict acoustic features. </li>
+<li><b>MTLDNN-MTLDNN</b>: Similar to DNN-DNN, but both the first and second networks are using MTLDNN.
+<br>
+</ol>
+<hr>
+
+
+
+<table border="1">
+<tr>
+<td height="40" width="120">Samples</td>
+<td height="40" width="120">Copy-Synthesis</td>
+<td height="40" width="120">HMM-GV</td>
+<td height="40" width="120">DNN</td>
+<td height="40" width="120">MTLDNN (Formants)</td>
+<td height="40" width="120">MTLDNN (LSF)</td>
+<td height="40" width="120">MTLDNN (Gammatone)</td>
+<td height="40" width="120">MTLDNN (STEP)</td>
+<td height="40" width="120">DNN-DNN</td>
+<td height="40" width="120">MTLDNN-MTLDNN</td>
+</tr>
+<tr>
+<td>1</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="COPY/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="HMMGV/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="DNN/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-FORMANT/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-LSF/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-GAMMATONE/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-STEP/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="DNN-DNN/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-MTLDNN/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="COPY/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="HMMGV/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="DNN/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-FORMANT/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-LSF/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-GAMMATONE/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-STEP/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="DNN-DNN/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-MTLDNN/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="COPY/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="HMMGV/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="DNN/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-FORMANT/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-LSF/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-GAMMATONE/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-STEP/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="DNN-DNN/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-MTLDNN/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="COPY/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="HMMGV/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="DNN/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-FORMANT/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-LSF/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-GAMMATONE/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-STEP/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="DNN-DNN/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-MTLDNN/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="COPY/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="HMMGV/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="DNN/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-FORMANT/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-LSF/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-GAMMATONE/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-STEP/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="DNN-DNN/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-MTLDNN/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="COPY/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="HMMGV/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="DNN/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-FORMANT/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-LSF/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-GAMMATONE/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-STEP/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="DNN-DNN/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="MTLDNN-MTLDNN/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+</table> 
+
+
+<!--
+<table border="1">
+<tr>
+<td height="40" width="130">Samples</td>
+<td height="40" width="130">Copy-synthesis</td>
+<td height="40" width="130">HMM-GV</td>
+<td height="40" width="130">HMM-VCTK</td>
+<td height="40" width="130">DNN</td>
+<td height="40" width="130">MTL-DNN-STEPW-1</td>
+<td height="40" width="130">MTL-DNN-STEPW-2</td>
+<td height="40" width="130">Perceptual weighted DNN</td>
+</tr>
+<tr>
+<td>1</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="copy_synthesis/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_gv/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_vctk/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn_stepw/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="mtl_dnn/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="pdnn/hvd_701.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="copy_synthesis/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_gv/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_vctk/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn_stepw/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="mtl_dnn/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="pdnn/hvd_702.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="copy_synthesis/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_gv/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_vctk/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn_stepw/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="mtl_dnn/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="pdnn/hvd_703.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="copy_synthesis/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_gv/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_vctk/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn_stepw/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="mtl_dnn/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="pdnn/hvd_704.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="copy_synthesis/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_gv/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_vctk/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn_stepw/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="mtl_dnn/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="pdnn/hvd_705.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="copy_synthesis/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_gv/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_vctk/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn_stepw/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="mtl_dnn/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="pdnn/hvd_706.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="copy_synthesis/hvd_707.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_gv/hvd_707.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_vctk/hvd_707.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn/hvd_707.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn_stepw/hvd_707.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="mtl_dnn/hvd_707.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="pdnn/hvd_707.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="copy_synthesis/hvd_708.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_gv/hvd_708.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_vctk/hvd_708.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn/hvd_708.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn_stepw/hvd_708.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="mtl_dnn/hvd_708.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="pdnn/hvd_708.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="copy_synthesis/hvd_709.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_gv/hvd_709.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_vctk/hvd_709.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn/hvd_709.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn_stepw/hvd_709.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="mtl_dnn/hvd_709.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="pdnn/hvd_709.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="copy_synthesis/hvd_710.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_gv/hvd_710.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="hmm_vctk/hvd_710.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn/hvd_710.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="dnn_stepw/hvd_710.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="mtl_dnn/hvd_710.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+<td><a onclick="this.firstChild.play()"><audio ><source src="pdnn/hvd_710.wav"/></audio><img width="30" alt="" src="audio.gif" height="30" /></a></td>
+</tr>
+-->
+
+</table> 
+
+
+</td>
+</tr>
+</tbody></table>
+</center>
+
+ <script src="/Scripts/app/audiobutton.js"></script>
+</body></html>
