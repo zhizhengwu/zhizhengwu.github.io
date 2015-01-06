@@ -12,7 +12,7 @@ function [grp_phase, cep] = modified_group_delay_feature(file_name, rho, gamma, 
 %     cep: modified group delay cepstral feature.
 %
 %%Example: [grp_phase, cep] = modified_group_delay_feature('./100001.wav', 0.4, 0.9, 12);
-%
+% Please tune rho and gamma for better performance
 %
 % by Zhizheng Wu (zhizheng.wu@ed.ac.uk)
 % http://www.zhizheng.org
@@ -24,15 +24,18 @@ function [grp_phase, cep] = modified_group_delay_feature(file_name, rho, gamma, 
 %
 % feel free to modify the code and welcome to cite above papers :)
 
-
 [speech,fs]  = wavread(file_name);
 
 frame_length = 25; %msec
+
 frame_shift  = 10; %msec
 NFFT         = 512;
+pre_emph     = true;
 
-speech = filter([1 -0.97], 1, speech);
-
+%%% Pre-emphasis + framing 
+if (pre_emph)
+    speech = filter([1 -0.97], 1, speech);
+end;
 frame_length = round((frame_length/1000)*fs);
 frame_shift = round((frame_shift/1000)*fs);
 frames = enframe(speech, hamming(frame_length), frame_shift);
@@ -49,12 +52,18 @@ y_spec = fft(delay_frames', NFFT);
 x_spec = x_spec(1:NFFT/2+1, :);
 y_spec = y_spec(1:NFFT/2+1, :);
 
-dct_spec = dct(medfilt1(log(abs(x_spec) + 0.000000001), 5));
+temp_x_spec = abs(x_spec);
+min_value = min(temp_x_spec(temp_x_spec > 0.0));
+temp_x_spec(temp_x_spec <= 0.0) = min_value * 0.1;
+
+dct_spec = dct(medfilt1(log(temp_x_spec), 5));
 smooth_spec = idct(dct_spec(1:30,:), NFFT/2+1);
 
 grp_phase1 = (real(x_spec).*real(y_spec) + imag(y_spec) .* imag(x_spec)) ./(exp(smooth_spec).^ (2*rho));
 grp_phase = (grp_phase1 ./ abs(grp_phase1)) .* (abs(grp_phase1).^ gamma);
 grp_phase = grp_phase ./ (max(max(abs(grp_phase))));
+
+grp_phase(isnan(grp_phase)) = 0.0;
 
 cep = dct(grp_phase);
 cep = cep(2:num_coeff+1, :)';
