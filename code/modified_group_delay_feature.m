@@ -53,8 +53,6 @@ x_spec = x_spec(1:NFFT/2+1, :);
 y_spec = y_spec(1:NFFT/2+1, :);
 
 temp_x_spec = abs(x_spec);
-min_value = min(temp_x_spec(temp_x_spec > 0.0));
-temp_x_spec(temp_x_spec <= 0.0) = min_value * 0.1;
 
 dct_spec = dct(medfilt1(log(temp_x_spec), 5));
 smooth_spec = idct(dct_spec(1:30,:), NFFT/2+1);
