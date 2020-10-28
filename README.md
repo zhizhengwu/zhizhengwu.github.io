@@ -1,4 +1,4 @@
 zhizhengwu.github.io
 ====================
 
-zhizheng's homepage: http://www.zhizheng.org/
+zhizheng's homepage: http://www.drwuz.com
