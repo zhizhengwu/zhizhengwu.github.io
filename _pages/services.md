@@ -4,4 +4,8 @@ title: "Services"
 ---
 
 ## Committee Member
-- test test
+- IEEE Speech and Language Technical Committee member (2020 - 2023)
+- IEEE International Conference on Acoustics, Speech and Signal Processing 2022 (Sponsorship Chair)
+- [Blizzard challenge](https://www.synsig.org/index.php/Blizzard_Challenge_2019) 2019 Organizer
+- [Voice conversion challenge 2016](http://www.vc-challenge.org/vcc2016/index.html) Organizer
+- [ASVspoof challenge 2015](https://www.asvspoof.org/index2015.html) Organizer
