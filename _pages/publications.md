@@ -22,6 +22,10 @@ author_profile: true
 1. Yao Qian, **Zhizheng Wu**, Boyang Gao, Frank K Soong, `"Improved Prosody Generation by Maximizing Joint Likelihood of State and Longer Units"`, IEEE Transactions on Audio, Speech and Language Processing, Vol 19, Issue 6, pp. 1702-1710, 2011.
 
 ## Conference
+1. Yi Zhou, Xiaohai Tian, **Zhizheng Wu**, Haizhou Li, `"Cross-Lingual Voice Conversion with a Cycle Consistency Loss on Linguistic Representation"`, INTERSPEECH 2021
+1. **Zhizheng Wu**, Zhihang Xie, Simon King, `"The Blizzard Challenge 2019"`, Blizzard Challenge 2019
+1. Liumeng Xue, Wei Song, Guanghui Xu, Lei Xie, **Zhizheng Wu**, `"Building a mixed-lingual neural TTS system with only monolingual data"`, INTERSPEECH 2019
+1. Tim Capes, Paul Coles, Alistair Conkie, Ladan Golipour, Abie Hadjitarkhani, Qiong Hu, Nancy Huddleston, Melvyn Hunt, Jiangchuan Li, Matthias Neeracher, Kishore Prahallad, Tuomo Raitio, Ramya Rasipuram, Greg Townsend, Becci Williamson, David Winarsky, **Zhizheng Wu**, Hepeng Zhang, `"Siri On-Device Deep Learning-Guided Unit Selection Text-to-Speech System"`, INTERSPEECH 2017
 1. **Zhizheng Wu**, Oliver Watts, Simon King, `"Merlin: An Open Source Neural Network Speech Synthesis System"`, the 9th ISCA Speech Synthesis Workshop (2016).
 1. Mirjam Wester, **Zhizheng Wu**, Junichi Yamagishi, `"Multidimensional scaling of systems in the Voice Conversion Challenge 2016"`, the 9th ISCA Speech Synthesis Workshop (2016).
 1. Mei Li, **Zhizheng Wu**, Lei Xie, `"On the impact of phoneme alignment in DNN-based speech synthesis"`, the 9th ISCA Speech Synthesis Workshop (2016).
