@@ -5,6 +5,8 @@ permalink: /team/
 
 <!-- # Team Profile -->
 
+![Team](../images/team.jpg)
+
 My team is broadly interested in audio and speech processing, multi-modality, DeepFake detection, natural language processing. We publish our work in the top conferences and journals, and we also have a strong connection with industry. My team has open positions for PhD student, Master student, postdocs, research assistants, and visitors. If you are interested in my team, feel free to contact me.
 
 ## Team members:
