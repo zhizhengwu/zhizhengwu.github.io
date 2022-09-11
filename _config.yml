@@ -82,11 +82,12 @@ analytics:
 author:
   name             : "Zhizheng Wu"
   avatar           : "wzz.jpg"
-  bio              : "Research scientist at Meta"
-  location         : "San Francisco Bay Area"
+  bio              : "Associate Professor at the Chinese University of Hong Kong, Shenzhen"
+  location         : "San Francisco Bay Area, Shenzhen, Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=K6zhweAAAAAJ&hl=en"
+  email            : "wuzhizheng # cuhk.edu.cn"
   email            : "wuzhizheng # gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -209,7 +210,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: team
     values:
       layout: single
       author_profile: true
