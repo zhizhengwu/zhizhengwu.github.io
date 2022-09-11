@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Journal
+1. Mauro Barni, Yi Fang, Yuhong Liu, Laura Robinson, Kazutoshi Sasahara, Subramaniam Vincent, Xinchao Wang, **Zhizheng Wu**, `Combating Misinformation/Disinformation in Online Social Media - A Multidisciplinary View`, APSIPA Transactions on Signal and Information Processing, 2022
 1. **Zhizheng Wu**, Junichi Yamagishi, Tomi Kinnunen, Cemal Hanilci, Md Sahidullah, Aleksandr Sizov, Nicholas Evans, Massimiliano Todisco, Hector Delgado, `"ASVspoof: the Automatic Speaker Verification Spoofing and Countermeasures Challenge"`, IEEE Journal of Selected Topic of Signal Processing, 2017
 1. Xiaohai Tian, Siu-Wa Lee, **Zhizheng Wu**, Eng Siong Chng, Haizhou Li, `"An Exemplar-based Approach to Frequency Warping for Voice Conversion"`, IEEE/ACM Transactions on Audio, Speech and Language Processing, 2017
 1. Yanmin Qian, Nanxin Chen, Heinrich Dinkel, **Zhizheng Wu**, `"Deep Feature Engineering for Noise Robust Spoofing Detection"`, IEEE/ACM Transactions on Audio, Speech and Language Processing, 2017
