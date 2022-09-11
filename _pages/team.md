@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-title: "Team"
+# title: "Team"
 ---
 
 <!-- # Team Profile -->
@@ -29,7 +29,7 @@ My team is broadly interested in speech processing, multi-modality, DeepFake det
 - Minqi Xiong (Undergraduate: CUHK-SZ)
 - Zuoou Li (Undergraduate: Beijing Institute of Technology)
 
-### Students I have worked with:
+## Students I have worked with:
 
 - Yang Gao (2020 - 2022: Thesis committee, PhD from Carnegie Mellon University. First job: Amazon, United States)
 - Shehzeen Hussain (Summer 2020: Intern at Meta. PhD student at University of California, San Diego)
