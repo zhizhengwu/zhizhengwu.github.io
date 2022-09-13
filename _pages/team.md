@@ -13,14 +13,14 @@ My team is broadly interested in audio and speech processing, multi-modality, De
 
 ### Post-docs
 
-- [Mingyang Zhang](https://arkhamimp.github.io/) Research Fellow @ National University of Singapore (co-supervised with Prof. Haizhou Li)
-- [Yi Zhou](https://scholar.google.com/citations?user=_POzpM4AAAAJ&hl=en) Research Fellow @ National University of Singapore (co-supervised with Prof. Haizhou Li)
+- [Mingyang Zhang](https://arkhamimp.github.io/) Research Fellow @ National University of Singapore (co-advisor)
+- [Yi Zhou](https://scholar.google.com/citations?user=_POzpM4AAAAJ&hl=en) Research Fellow @ National University of Singapore (co-advisor)
 
 ### PhD students
 
 - Xi Chen (MEng from Tsinghua University)
 - [Xueyao Zhang](https://www.zhangxueyao.com/) (MEng from University of Chinese Academy of Sciences)
-- Xuehao Zhou, Ph.D student @ National University of Singapore (co-supervised with Prof. Haizhou Li)
+- Xuehao Zhou, Ph.D student @ National University of Singapore (co-advisor)
 
 ### Research assistants
 
