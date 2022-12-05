@@ -46,3 +46,7 @@ Zhizheng Wu is an associate professor at the Chinese University of Hong Kong, Sh
 - Organizer, [ASVspoof challenge 2015](https://www.asvspoof.org/index2015.html)
 - Member of Technical Program Committee: ICASSP, INTERSPEECH, ASRU, etc 
 
+### Teaching
+- [CSC 3160 Fundamentals of Speech and Language Processing](https://drwuz.com/CSC3160/) (2023 Spring)
+- CSC 3100 Data Structures (2022 Fall)
+
