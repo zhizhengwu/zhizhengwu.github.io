@@ -18,8 +18,8 @@ My team is broadly interested in audio and speech processing, multi-modality, De
 
 ### PhD students
 
-- Xi Chen (MEng from Tsinghua University)
-- [Xueyao Zhang](https://www.zhangxueyao.com/) (MEng from University of Chinese Academy of Sciences)
+- [Xi Chen](https://chenx17.github.io/) (BEng: Beihang U, MEng: Tsinghua U)
+- [Xueyao Zhang](https://www.zhangxueyao.com/) (BEng: Wuhan U, MEng: University of Chinese Academy of Sciences)
 - Xuehao Zhou, Ph.D student @ National University of Singapore (co-advisor)
 
 ### Research assistants
