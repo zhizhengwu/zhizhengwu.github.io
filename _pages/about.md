@@ -14,7 +14,7 @@ I have openings for research scientists, post-docs, PhD students, software engin
 
 ### About Me
 <div align="justify">
-Zhizheng Wu is an associate professor at the Chinese University of Hong Kong, Shenzhen. Prior to that, he led teams and performed research at Meta, JD.com, Apple, the University of Edinburgh, and Microsoft Research Asia. Zhizheng received his Ph.D. from Nanyang Technological University, Singapore in 2015. Zhizheng is the creator of Merlin, an open-source speech synthesis toolkit. He initiated and co-organized the first speaker verification spoofing and countermeasures challenge as a special session at Interspeech 2015, the Voice Conversion Challenge 2016, and the Blizzard Challenge 2019. He also gave a tutorial on spoofing detection at APSIPA ASC 2015 and a tutorial on deep learning-based speech synthesis at Interspeech 2017. Zhizheng is a member of the IEEE Speech and Language Processing Technical Committee.
+Zhizheng Wu is an associate professor at the Chinese University of Hong Kong, Shenzhen. Prior to that, he led teams and performed research at Meta, JD.com, Apple, the University of Edinburgh, and Microsoft Research Asia. Zhizheng received his Ph.D. from Nanyang Technological University, Singapore in 2015. Zhizheng is the creator of Merlin, an open-source speech synthesis toolkit. He initiated and co-organized the first speaker verification spoofing and countermeasures challenge as a special session at Interspeech 2015, the Voice Conversion Challenge 2016, and the Blizzard Challenge 2019. He also gave a tutorial on spoofing detection at APSIPA ASC 2015 and a tutorial on deep learning-based speech synthesis at Interspeech 2017. Zhizheng is an associate editor of IEEE/ACM Transactions on Audio Speech and Language Processing and a member of the IEEE Speech and Language Processing Technical Committee.
 </div>
 
 ### Professional Experiences
@@ -35,6 +35,7 @@ Zhizheng Wu is an associate professor at the Chinese University of Hong Kong, Sh
 - Best Paper award, APSIPA Annual Submit and Conference 2012
 
 ### Selected Professional Services
+- Associate Editor, IEEE/ACM Transactions on Audio Speech and Language Processing (2022 - )
 - IEEE Speech and Language Technical Committee member (2020 - 2023)
 - Area chair: 2022 IEEE Spoken Language Technology Workshop
 - Meta reviewer: ICASSP 2021, 2022, 2023
