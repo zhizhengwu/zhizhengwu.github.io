@@ -17,6 +17,10 @@ I have openings for research scientists, post-docs, PhD students, software engin
 Zhizheng Wu is an associate professor at the Chinese University of Hong Kong, Shenzhen. Prior to that, he led teams and performed research at Meta, JD.com, Apple, the University of Edinburgh, and Microsoft Research Asia. Zhizheng received his Ph.D. from Nanyang Technological University, Singapore in 2015. Zhizheng is the creator of Merlin, an open-source speech synthesis toolkit. He initiated and co-organized the first speaker verification spoofing and countermeasures challenge as a special session at Interspeech 2015, the Voice Conversion Challenge 2016, and the Blizzard Challenge 2019. He also gave a tutorial on spoofing detection at APSIPA ASC 2015 and a tutorial on deep learning-based speech synthesis at Interspeech 2017. Zhizheng is an associate editor of IEEE/ACM Transactions on Audio Speech and Language Processing and a member of the IEEE Speech and Language Processing Technical Committee.
 </div>
 
+<div align="justify">
+武执政教授现任香港中文大学（深圳）副教授。在此之前，他于2015年获得南洋理工大学博士学位，并在Meta（原Facebook）、京东、苹果、爱丁堡大学、微软亚洲研究院等机构从事学术研究和技术领导工作。他连续多次入选斯坦福大学发布的“全球前2％顶尖科学家”榜单，曾获得INTERSPEECH 2016最佳学生论文奖、2012年亚太信号与信息处理协会年度峰会最佳论文奖。武教授带领开发了语音合成开源系统Merlin，发起并组织了第一届声纹识别欺骗检测国际评测、第一届语音转换国际评测，组织了2019年语音合成国际评测（Blizzard Challenge 2019）。武教授现为IEEE语音与语言处理技术委员会委员，语音领域权威期刊IEEE/ACM Transactions on Audio, Speech and Language Processing的Associate Editor。
+</div>
+
 ### Professional Experiences
 - Meta Platform Inc (also known as Facebook Inc), Research scientist (Apr. 2019 - now)
 - Sanas.ai, Scientific Advisor, (Oct. 2020 - now)
