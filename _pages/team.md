@@ -14,7 +14,7 @@ My team is broadly interested in audio and speech processing, multi-modality, De
 
 ### Post-docs
 
-- [Liuming Xue](https://scholar.google.com/citations?user=KNqxVT0AAAAJ&hl=en)
+- [Liumeng Xue](https://scholar.google.com/citations?user=KNqxVT0AAAAJ&hl=en) (Ex-Microsoft, Ex-JD, PhD from Northwestern Polytechnical University)
 
 ### PhD students
 
@@ -22,7 +22,7 @@ My team is broadly interested in audio and speech processing, multi-modality, De
 - [Xueyao Zhang](https://www.zhangxueyao.com/) (2022 Fall)
 - [Zuoou Li](https://leo9344.github.io/) (Incoming 2023 Fall)
 - [Li Wang](https://wwwwwli.github.io/) (Incoming 2023 Fall)
-- [Yuancheng Wang]() (Incoming 2023 Fall)
+- [Yuancheng Wang](https://arxiv.org/abs/2304.00830) (Incoming 2023 Fall)
 
 ### Research assistants
 
