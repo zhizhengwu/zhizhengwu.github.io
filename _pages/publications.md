@@ -1,11 +1,13 @@
 ---
-layout: archive
+# layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-Please check [Google Scholar](https://scholar.google.com/citations?user=K6zhweAAAAAJ&hl=en) for the full list.
+<div align="justify">
+Please check <a href="https://scholar.google.com/citations?user=K6zhweAAAAAJ&hl=en">Google Scholar</a> for the full list.
+</div>
 
 ## Journal
 1. Yi Zhou, **Zhizheng Wu**, Mingyang Zhang, Xiaohai Tian, Haizhou Li, `TTS-Guided Training for Accent Conversion Without Parallel Data`, IEEE Signal Processing Letter 2023

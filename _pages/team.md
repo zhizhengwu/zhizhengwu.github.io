@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-# title: "Team"
+title: "Team"
 ---
 
 <!-- # Team Profile -->
