@@ -14,27 +14,30 @@ My team is broadly interested in audio and speech processing, multi-modality, De
 
 ### Post-docs
 
-- [Mingyang Zhang](https://arkhamimp.github.io/) Research Fellow @ National University of Singapore (co-advisor)
-- [Yi Zhou](https://scholar.google.com/citations?user=_POzpM4AAAAJ&hl=en) Research Fellow @ National University of Singapore (co-advisor)
+- [Liuming Xue](https://scholar.google.com/citations?user=KNqxVT0AAAAJ&hl=en)
 
 ### PhD students
 
-- [Xi Chen](https://chenx17.github.io/) (BEng: Beihang U, MEng: Tsinghua U)
-- [Xueyao Zhang](https://www.zhangxueyao.com/) (BEng: Wuhan U, MEng: U CAS)
-- Xuehao Zhou, Ph.D student @ National University of Singapore (co-advisor)
+- [Xi Chen](https://chenx17.github.io/) (2022 Fall)
+- [Xueyao Zhang](https://www.zhangxueyao.com/) (2022 Fall)
+- [Zuoou Li](https://leo9344.github.io/) (Incoming 2023 Fall)
+- [Li Wang](https://wwwwwli.github.io/) (Incoming 2023 Fall)
+- [Yuancheng Wang]() (Incoming 2023 Fall)
 
 ### Research assistants
 
-- Yuancheng Wang (RA, Recommended for intership at MSRA)
 - Li Wang (Full-time RA at CUHK-Shenzhen)
-- Zhiping Zeng (Full-time RA at CUHK-Shenzhen)
-- Zuoou Li (Undergraduate: Beijing Institute of Technology)
-- Yuhao Luo (Master of Data Science: CUHK-Shenzhen)
+- Zuoou Li (Visiting student from Beijing Institute of Technology)
+- Xiangyu Shi (Visiting student from Harbin Institute of Technology)
 - Jiakun Pei (Master of Data Science: CUHK-Shenzhen)
-- Xinyu Zhang (Master of Data Science: CUHK-Shenzhen)
+- Yuhao Luo (Master of Data Science: CUHK-Shenzhen)
 - Minqi Xiong (Undergraduate: CUHK-Shenzhen)
 - Yicheng Gu (Undergraduate: CUHK-Shenzhen)
-
+- Jiaqi Li (Undergraduate: CUHK-Shenzhen)
+- Haopeng Chen (URA)
+- Zihao Fang (URA)
+- Jiamu Luo (URA)
+- Yiqu Yang (URA)
 
 ## Students I have worked with
 
