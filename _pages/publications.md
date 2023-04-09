@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<div align="justify">
+Please check [Google Scholar](https://scholar.google.com/citations?user=K6zhweAAAAAJ&hl=en) for full list.
+</div>
+
 ## Journal
 1. Yi Zhou, Zhizheng Wu, Mingyang Zhang, Xiaohai Tian, Haizhou Li, `TTS-Guided Training for Accent Conversion Without Parallel Data`, IEEE Signal Processing Letter 2023
 1. Mauro Barni, Yi Fang, Yuhong Liu, Laura Robinson, Kazutoshi Sasahara, Subramaniam Vincent, Xinchao Wang, **Zhizheng Wu**, `Combating Misinformation/Disinformation in Online Social Media - A Multidisciplinary View`, APSIPA Transactions on Signal and Information Processing, 2022
