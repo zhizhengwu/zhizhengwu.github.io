@@ -10,6 +10,7 @@ Please check <a href="https://scholar.google.com/citations?user=K6zhweAAAAAJ&hl=
 </div>
 
 ## Journal
+1. Yi Zhou, **Zhizheng Wu**, Xiaohai Tian, Haizhou Li, `Optimization of Cross-Lingual Voice Conversion with Linguistics Losses to Reduce Foreign Accents`, IEEE/ACM Transactions on Audio, Speech and Language Processing 2023
 1. Yi Zhou, **Zhizheng Wu**, Mingyang Zhang, Xiaohai Tian, Haizhou Li, `TTS-Guided Training for Accent Conversion Without Parallel Data`, IEEE Signal Processing Letter 2023
 1. Mauro Barni, Yi Fang, Yuhong Liu, Laura Robinson, Kazutoshi Sasahara, Subramaniam Vincent, Xinchao Wang, **Zhizheng Wu**, `Combating Misinformation/Disinformation in Online Social Media - A Multidisciplinary View`, APSIPA Transactions on Signal and Information Processing, 2022
 1. **Zhizheng Wu**, Junichi Yamagishi, Tomi Kinnunen, Cemal Hanilci, Md Sahidullah, Aleksandr Sizov, Nicholas Evans, Massimiliano Todisco, Hector Delgado, `"ASVspoof: the Automatic Speaker Verification Spoofing and Countermeasures Challenge"`, IEEE Journal of Selected Topic of Signal Processing, 2017
