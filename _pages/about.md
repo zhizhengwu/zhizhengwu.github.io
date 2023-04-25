@@ -11,6 +11,8 @@ redirect_from:
 ### Hiring
 
 I have openings for research scientists, post-docs, PhD students, software engineers, research assistants, and interns. Feel free to contact me if you are interested.
+2023年暑假还有实习生空缺，我们会为实习生提供实习证明。
+本团队长期接收访问学生（硕士生或博士生），一般6个月以上较佳；也欢迎高年级本科生前来实习。
 
 ### About Me
 <div align="justify">
