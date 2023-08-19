@@ -54,12 +54,14 @@ Zhizheng Wu is an associate professor at the Chinese University of Hong Kong, Sh
 - Member of Technical Program Committee: ICASSP, INTERSPEECH, ASRU, etc 
 
 ### Invited Talks
+- [Recent Advances in Voice Spoofing Detection](http://addchallenge.cn/dada2023), Keynote speech, IJCAI 2023 Workshop onDeepfake Audio Detection and Analysis (DADA 2023)
 - [Detecting manipulated and synthetic audio](https://2022.ieeeicassp.org/program_glance_cn.html), 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)
 - [Detecting manipulated and synthetic audio](https://symposium2022.spsc-sig.org/), the 2nd ISCA Symposium on Security and Privacy in Speech Communication (SPSC 2022)
 - [Dis/Misinformation Analysis and Countermeasures - A Computational Viewpoint](https://www.nowpublishers.com/Public-Content/CFP_ATSIP_Multi-Disciplinary_Misinformation_2022.pdf), Online panel discussion, 2022
 - [Audio DeepFake Detection](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36b94b60-ad33-468d-93e6-ac5d0108f78a), Johns Hopkins University, 2020
 
 ### Teaching
+- [CSC 3160 Fundamentals of Speech and Language Processing] (2024 Spring)
 - [CSC 3160 Fundamentals of Speech and Language Processing](https://drwuz.com/CSC3160/) (2023 Spring)
 - CSC 3100 Data Structures (2022 Fall)
 
