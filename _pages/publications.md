@@ -10,6 +10,7 @@ Please check <a href="https://scholar.google.com/citations?user=K6zhweAAAAAJ&hl=
 </div>
 
 ## Journal
+1. Mingyang Zhang, Xuehao Zhou, **Zhizheng Wu**, Haizhou Li, `Towards Zero-Shot Multi-Speaker Multi-Accent Text-to-Speech Synthesis`, IEEE Signal Processing Letter 2023
 1. Yi Zhou, **Zhizheng Wu**, Xiaohai Tian, Haizhou Li, `Optimization of Cross-Lingual Voice Conversion with Linguistics Losses to Reduce Foreign Accents`, IEEE/ACM Transactions on Audio, Speech and Language Processing 2023
 1. Yi Zhou, **Zhizheng Wu**, Mingyang Zhang, Xiaohai Tian, Haizhou Li, `TTS-Guided Training for Accent Conversion Without Parallel Data`, IEEE Signal Processing Letter 2023
 1. Mauro Barni, Yi Fang, Yuhong Liu, Laura Robinson, Kazutoshi Sasahara, Subramaniam Vincent, Xinchao Wang, **Zhizheng Wu**, `Combating Misinformation/Disinformation in Online Social Media - A Multidisciplinary View`, APSIPA Transactions on Signal and Information Processing, 2022
@@ -29,6 +30,7 @@ Please check <a href="https://scholar.google.com/citations?user=K6zhweAAAAAJ&hl=
 1. Yao Qian, **Zhizheng Wu**, Boyang Gao, Frank K Soong, `"Improved Prosody Generation by Maximizing Joint Likelihood of State and Longer Units"`, IEEE Transactions on Audio, Speech and Language Processing, Vol 19, Issue 6, pp. 1702-1710, 2011.
 
 ## Conference
+1. Yuancheng Wang, Zeqian Ju, Xu Tan, Lei He, **Zhizheng Wu**, Jiang Bian, Sheng Zhao, `AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models`, Neurips 2023
 1. Yi Zhou, Xiaohai Tian, **Zhizheng Wu**, Haizhou Li, `"Cross-Lingual Voice Conversion with a Cycle Consistency Loss on Linguistic Representation"`, INTERSPEECH 2021
 1. **Zhizheng Wu**, Zhihang Xie, Simon King, `"The Blizzard Challenge 2019"`, Blizzard Challenge 2019
 1. Liumeng Xue, Wei Song, Guanghui Xu, Lei Xie, **Zhizheng Wu**, `"Building a mixed-lingual neural TTS system with only monolingual data"`, INTERSPEECH 2019
