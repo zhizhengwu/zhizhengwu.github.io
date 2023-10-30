@@ -27,10 +27,11 @@ Zhizheng Wu is an associate professor at the Chinese University of Hong Kong, Sh
 - Oct 26th, 2023: Congrats to Xueyao Zhang (2nd year PhD student CUHK-Shenzhen) and team, whose paper on Singing Voice Conversion accepted by <span style="color:blue">NeurIPS 2023 Workshop on Machine Learning for Audio.</span>
 - Oct 20th, 2023: Prof. Zhizheng Wu [gave an invited talk on voice anti-spoofing at the Symposium on Speaker Verification and its Application](https://mp.weixin.qq.com/s/eEOGWlp_vLEyZXi-M5plGQ).
 - Oct 19th, 2023: Prof. Zhizheng Wu [visited Nankai University, and was appointed as an external advisor](https://news.nankai.edu.cn/dcxy/system/2023/10/21/030058409.shtml).
+- Oct 13th, 2023: Prof. Zhizheng Wu is listed in the Stanford <span style="color:blue">'World's Top 2% Scientists'</span> list. See the [interview by Shenzhen TV](./files/shenzhen_tv_interview.mp4).
 - Oct 10th, 2023: Congrats to Jiaqi Li (UG CUHK-Shenzhen), who starts <span style="color:blue">internship at Microsoft Research.</span>
 - Sep 22th, 2023: Congrats to Yuancheng Wang (1st year PhD student CUHK-Shenzhen, UG at CUHK-Shenzhen) and team, whose paper on Audio Editing accepted by <span style="color:blue">NeurIPS 2023.</span>
 - Aug 27th, 2023: The proposal to host <span style="color:blue">IEEE SLT workshop 2024 led by Prof. Wu was approved</span>. See you in Macao from Dec 9th to 12th, 2024! 
-- Aug 19th, 2023: Prof. Zhizheng Wu gave a <span style="color:blue">keynote speech</span> at the IJCAI 2023 Workshop onDeepfake Audio Detection and Analysis (DADA 2023) on [Recent Advances in Voice Spoofing Detection](http://addchallenge.cn/dada2023)
+- Aug 19th, 2023: Prof. Zhizheng Wu gave a <span style="color:blue">keynote speech</span> at the IJCAI 2023 Workshop on Deepfake Audio Detection and Analysis (DADA 2023) on [Recent Advances in Voice Spoofing Detection](http://addchallenge.cn/dada2023)
 
 
 ### Professional Experiences
