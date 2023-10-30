@@ -20,13 +20,23 @@ Zhizheng Wu is an associate professor at the Chinese University of Hong Kong, Sh
 </div>
 
 <div align="justify">
-武执政教授现任香港中文大学（深圳）副教授。在此之前，他于2015年获得南洋理工大学博士学位，并在Meta（原Facebook）、京东、苹果、爱丁堡大学、微软亚洲研究院等机构从事学术研究和技术领导工作。他连续多次入选斯坦福大学“全球前2％顶尖科学家”、爱思唯尔“中国高被引学者”榜单，曾获得INTERSPEECH 2016最佳学生论文奖、2012年亚太信号与信息处理协会年度峰会最佳论文奖。武教授带领开发了语音合成开源系统Merlin，发起并组织了第一届声纹识别欺骗检测国际评测、第一届语音转换国际评测，组织了2019年语音合成国际评测（Blizzard Challenge 2019）。武教授现为IEEE语音与语言处理技术委员会委员，语音领域权威期刊IEEE/ACM Transactions on Audio, Speech and Language Processing的Associate Editor, IEEE Spoken Language Technology Workshop 2024的大会主席。
+武执政博士现任香港中文大学（深圳）副教授。入选国家级青年人才，连续多次入选斯坦福大学“全球前2％顶尖科学家”、爱思唯尔“中国高被引学者”榜单。他于2015年获得南洋理工大学博士学位，并在Meta（原Facebook）、京东、苹果、爱丁堡大学、微软亚洲研究院等机构从事学术研究和技术领导工作。武博士带领开发了语音合成开源系统Merlin，发起并组织了第一届声纹识别欺骗检测国际评测、第一届语音转换国际评测，组织了2019年语音合成国际评测（Blizzard Challenge 2019）。曾获得INTERSPEECH 2016最佳学生论文奖、2012年亚太信号与信息处理协会年度峰会最佳论文奖。武博士现为IEEE语音与语言处理技术委员会委员，语音领域权威期刊IEEE/ACM Transactions on Audio, Speech and Language Processing的Associate Editor, IEEE Spoken Language Technology Workshop 2024的大会主席。他曾受邀在ICASSP、IJCAI 2023 DADA Workshop等权威学术会议做特邀报告。
 </div>
+
+### News
+- Oct 26th, 2023: Congrats to Xueyao Zhang (2nd year PhD student CUHK-Shenzhen) and team, whose paper on Singing Voice Conversion accepted by <span style="color:blue">NeurIPS 2023 Workshop on Machine Learning for Audio.</span>
+- Oct 20th, 2023: Prof. Zhizheng Wu [gave an invited talk on voice anti-spoofing at the Symposium on Speaker Verification and its Application](https://mp.weixin.qq.com/s/eEOGWlp_vLEyZXi-M5plGQ).
+- Oct 19th, 2023: Prof. Zhizheng Wu [visited Nankai University, and was appointed as an external advisor](https://news.nankai.edu.cn/dcxy/system/2023/10/21/030058409.shtml).
+- Oct 10th, 2023: Congrats to Jiaqi Li (UG CUHK-Shenzhen), who starts <span style="color:blue">internship at Microsoft Research.</span>
+- Sep 22th, 2023: Congrats to Yuancheng Wang (1st year PhD student CUHK-Shenzhen, UG at CUHK-Shenzhen) and team, whose paper on Audio Editing accepted by <span style="color:blue">NeurIPS 2023.</span>
+- Aug 27th, 2023: The proposal to host <span style="color:blue">IEEE SLT workshop 2024 led by Prof. Wu was approved</span>. See you in Macao from Dec 9th to 12th, 2024! 
+- Aug 19th, 2023: Prof. Zhizheng Wu gave a <span style="color:blue">keynote speech</span> at the IJCAI 2023 Workshop onDeepfake Audio Detection and Analysis (DADA 2023) on [Recent Advances in Voice Spoofing Detection](http://addchallenge.cn/dada2023)
+
 
 ### Professional Experiences
 - Chinese University of Hong Kong, Shenzhen (Aug. 2022 - now)
 - Mel Lab, Research lead (Nov. 2021 - now)
-- Sanas.ai, Scientific Advisor, (Oct. 2020 - now)
+- Sanas.ai, Scientific Advisor/Investor, (Oct. 2020 - now)
 - Meta Platform Inc (also known as Facebook Inc), Research scientist (Apr. 2019 - Aug. 2022)
 - JD.COM USA, Technical director (Feb. 2018 - Apr. 2019)
 - Apple Inc, Research scientist (May 2016 - Feb. 2018)

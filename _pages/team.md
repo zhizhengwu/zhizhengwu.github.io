@@ -18,7 +18,6 @@ My team is broadly interested in audio and speech processing, multi-modality, De
 
 ### PhD students
 
-- [Xi Chen](https://chenx17.github.io/) (2022 Fall)
 - [Xueyao Zhang](https://www.zhangxueyao.com/) (2022 Fall) 入选“腾讯犀牛鸟精英人才计划”
 - [Li Wang](https://wwwwwli.github.io/) (2023 Fall) 
 - [Yuancheng Wang](https://arxiv.org/abs/2304.00830) (2023 Fall)
@@ -28,19 +27,19 @@ My team is broadly interested in audio and speech processing, multi-modality, De
 - Li Wang (Full-time RA at CUHK-Shenzhen)
 - Xiangyu Shi (Visiting student from KTH)
 - Haorui He (Full-time RA at CUHK-Shenzhen)
-- Ruichun Yang (Full-time RA at CUHK-Shenzhen, student at UCSD)
+- Yifei Xin (Full-time RA at CUHK-Shenzhen)
+- Lexiao Zou (Visitiing student from HIT-Shenzhen)
 
 ### Undergraduates and Master students
 - Jiakun Pei (Master of Data Science: CUHK-Shenzhen)
 - Yuhao Luo (Master of Data Science: CUHK-Shenzhen)
 - Yicheng Gu (Undergraduate: CUHK-Shenzhen)
+- Chaoren Wang (Undergraduate: CUHK-Shenzhen)
 - Jiaqi Li (Undergraduate: CUHK-Shenzhen)
 - Jiahao Zheng (Undergraduate: CUHK-Shenzhen)
 - Tze Ying Tang (Undergraduate: CUHK-Shenzhen)
 - Haopeng Chen (URA)
 - Zihao Fang (URA)
-- Jiamu Luo (URA)
-- Yiqu Yang (URA)
 
 ## Students I have worked with
 
