@@ -27,7 +27,7 @@ Zhizheng Wu is an associate professor at the Chinese University of Hong Kong, Sh
 - Oct 26th, 2023: Congrats to Xueyao Zhang (2nd year PhD student CUHK-Shenzhen) and team, whose [paper on Singing Voice Conversion](https://arxiv.org/abs/2310.11160) accepted by <span style="color:blue">NeurIPS 2023 Workshop on Machine Learning for Audio.</span>
 - Oct 20th, 2023: Prof. Zhizheng Wu [gave an invited talk on voice anti-spoofing at the Symposium on Speaker Verification and its Application](https://mp.weixin.qq.com/s/eEOGWlp_vLEyZXi-M5plGQ).
 - Oct 19th, 2023: Prof. Zhizheng Wu [visited Nankai University, and was appointed as an external advisor](https://news.nankai.edu.cn/dcxy/system/2023/10/21/030058409.shtml).
-- Oct 13th, 2023: Prof. Zhizheng Wu is listed in the Stanford <span style="color:blue">'World's Top 2% Scientists'</span> list. See the [interview by Shenzhen TV](./files/shenzhen_tv_interview.mp4).
+- Oct 13th, 2023: Prof. Zhizheng Wu was listed in the Stanford <span style="color:blue">'World's Top 2% Scientists'</span> list. See the [interview by Shenzhen TV](./files/shenzhen_tv_interview.mp4).
 - Oct 10th, 2023: Congrats to Jiaqi Li (UG CUHK-Shenzhen), who starts <span style="color:blue">internship at Microsoft Research.</span>
 - Sep 22th, 2023: Congrats to Yuancheng Wang (1st year PhD student CUHK-Shenzhen, UG at CUHK-Shenzhen) and team, whose [paper on Audio Editing](https://arxiv.org/abs/2304.00830) accepted by <span style="color:blue">NeurIPS 2023.</span>
 - Aug 27th, 2023: The proposal to host <span style="color:blue">IEEE SLT workshop 2024 led by Prof. Wu was approved</span>. See you in Macao from Dec 9th to 12th, 2024! 
@@ -74,7 +74,8 @@ Zhizheng Wu is an associate professor at the Chinese University of Hong Kong, Sh
 - [Audio DeepFake Detection](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36b94b60-ad33-468d-93e6-ac5d0108f78a), Johns Hopkins University, 2020
 
 ### Teaching
-- [CSC 3160 Fundamentals of Speech and Language Processing] (2024 Spring)
-- [CSC 3160 Fundamentals of Speech and Language Processing](https://drwuz.com/CSC3160/) (2023 Spring)
-- CSC 3100 Data Structures (2022 Fall)
+- [CSC3160 Fundamentals of Speech and Language Processing](https://drwuz.com/CSC3160/) (2024 Spring)
+- [CSC4050 Computing Capstone](https://drwuz.com/csc4050/) (2024 Spring)
+- [CSC3160 Fundamentals of Speech and Language Processing](https://slpcourse.github.io/) (2023 Spring)
+- CSC3100 Data Structures (2022 Fall)
 
