@@ -24,6 +24,8 @@ Zhizheng Wu is an associate professor at the Chinese University of Hong Kong, Sh
 </div>
 
 ### News
+- Dec 18th, 2023: <a href="https://github.com/open-mmlab/Amphion">Amphion v0.1</a> is released. It is rated as an A+++ project by <a href="https://www.bilibili.com/video/BV18w411V7iq">top Silcon Valley investor</a>.
+- Dec 9th, 2023: Three papers from my team are accepted by ICASSP 2024. Congrants to Yicheng, Jiaqi and Li.
 - Oct 26th, 2023: Congrats to Xueyao Zhang (2nd year PhD student CUHK-Shenzhen) and team, whose [paper on Singing Voice Conversion](https://arxiv.org/abs/2310.11160) accepted by <span style="color:blue">NeurIPS 2023 Workshop on Machine Learning for Audio.</span>
 - Oct 20th, 2023: Prof. Zhizheng Wu [gave an invited talk on voice anti-spoofing at the Symposium on Speaker Verification and its Application](https://mp.weixin.qq.com/s/eEOGWlp_vLEyZXi-M5plGQ).
 - Oct 19th, 2023: Prof. Zhizheng Wu [visited Nankai University, and was appointed as an external advisor](https://news.nankai.edu.cn/dcxy/system/2023/10/21/030058409.shtml).
