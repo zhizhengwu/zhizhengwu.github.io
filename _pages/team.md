@@ -22,12 +22,12 @@ My team is broadly interested in audio and speech processing, multi-modality, De
 - [Li Wang](https://wwwwwli.github.io/) (2023 Fall) 
 - [Yuancheng Wang](https://arxiv.org/abs/2304.00830) (2023 Fall)
 
-### Full-time RAs and interns
+### RAs and interns
 
 - Li Wang (Full-time RA at CUHK-Shenzhen)
-- Xiangyu Shi (Visiting student from KTH)
 - Haorui He (Full-time RA at CUHK-Shenzhen)
-- Yifei Xin (Full-time RA at CUHK-Shenzhen)
+- Junan Zhang (Intern@Shanghai AI Lab from Fudan University)
+- Zeyu Xie (Intern@Shanghai AI Lab from Shanghai Jiaotong University)
 - Lexiao Zou (Visitiing student from HIT-Shenzhen)
 
 ### Undergraduates and Master students
