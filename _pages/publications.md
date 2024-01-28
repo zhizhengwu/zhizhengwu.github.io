@@ -10,6 +10,7 @@ Please check <a href="https://scholar.google.com/citations?user=K6zhweAAAAAJ&hl=
 </div>
 
 ## Journal
+1. Xuehao Zhou, Mingyang Zhang, Yi Zhou, **Zhizheng Wu**, Haizhou Li, `Accented Text-to-Speech Synthesis with Limited Data`, IEEE/ACM Transactions on Audio, Speech and Language Processing 2024
 1. Mingyang Zhang, Xuehao Zhou, **Zhizheng Wu**, Haizhou Li, `Towards Zero-Shot Multi-Speaker Multi-Accent Text-to-Speech Synthesis`, IEEE Signal Processing Letter 2023
 1. Yi Zhou, **Zhizheng Wu**, Xiaohai Tian, Haizhou Li, `Optimization of Cross-Lingual Voice Conversion with Linguistics Losses to Reduce Foreign Accents`, IEEE/ACM Transactions on Audio, Speech and Language Processing 2023
 1. Yi Zhou, **Zhizheng Wu**, Mingyang Zhang, Xiaohai Tian, Haizhou Li, `TTS-Guided Training for Accent Conversion Without Parallel Data`, IEEE Signal Processing Letter 2023
