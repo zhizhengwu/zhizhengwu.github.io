@@ -16,19 +16,26 @@ My team is broadly interested in audio and speech processing, multi-modality, De
 
 - [Liumeng Xue](https://scholar.google.com/citations?user=KNqxVT0AAAAJ&hl=en) (Ex-Microsoft, Ex-JD, PhD from Northwestern Polytechnical University)
 
-### PhD students
+### PhD & MPhil students
 
 - [Xueyao Zhang](https://www.zhangxueyao.com/) (2022 Fall) 入选“腾讯犀牛鸟精英人才计划”
 - [Li Wang](https://wwwwwli.github.io/) (2023 Fall) 
 - [Yuancheng Wang](https://arxiv.org/abs/2304.00830) (2023 Fall)
+- [Jiaqi Li] (2024 Fall) UG from CUHK-Shenzhen, Intern@Microsoft Research
+- [Junan Zhang] (2024 Fall) UG from Fudan University
+- [Zihao Fang] (2024 Fall MPhil) UG from CUHK-Shenzhen
 
 ### RAs and interns
 
 - Li Wang (Full-time RA at CUHK-Shenzhen)
 - Haorui He (Full-time RA at CUHK-Shenzhen)
+- Xiaoyan Lei (Full-time RA at CUHK-Shenzhen)
+- Liwei Liu (Full-time RA at CUHK-Shenzhen)
+- Yukun Li (Visiting PhD student from London Queen Mary University)
+- Haotian Guo (Visiting MEng student from Hunan University)
+- Peizhuo Liu (Visiting MEng student from NorthernEast University)
 - Junan Zhang (Intern@Shanghai AI Lab from Fudan University)
 - Zeyu Xie (Intern@Shanghai AI Lab from Shanghai Jiaotong University)
-- Lexiao Zou (Visitiing student from HIT-Shenzhen)
 
 ### Undergraduates and Master students
 - Jiakun Pei (Master of Data Science: CUHK-Shenzhen)
