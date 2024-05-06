@@ -5,7 +5,8 @@ title: "News"
 
 ### News
 - 2024-05-04: 武博士受邀担任IEEE Signal Processing Letters的编委
-- 2024-04-15: Amphion受邀在ICASSSP 2024上展示
+- 2024-05-02: [NaturalSpeech 3](https://arxiv.org/abs/2403.03100)被ICML接收。NS3中的FACodec已在[Amphion](https://github.com/open-mmlab/Amphion)中开源。
+- 2024-04-15: Amphion受邀在IEEE ICASSP 2024上展示，见[现场照片](images/amphion_icassp2024.jpg)
 - 2024-04-14: Jiaqi Li同学获得IEEE Travel grant
 - 2024-04-08: 港中大（深圳）-趣丸科技联合实验中心（主任：武执政博士）正式签署执行，期待开花结果。
 - 2024-03-28: 受邀在2024中国国际音频产业大会汇报Amphion开源项目。
