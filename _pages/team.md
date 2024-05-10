@@ -6,6 +6,7 @@ title: "Team"
 <!-- # Team Profile -->
 
 ![Team](../images/team.jpg)
+![Team](../images/team_may_2024.jpg)
 <div align="justify">
 My team is broadly interested in audio and speech processing, multi-modality, DeepFake detection, natural language processing. We publish our work in the top conferences and journals, and deploy research output to products by collaborating with industry. My team has open positions for postdocs, PhD students, research assistants, and visiting research students/researchers. If you are interested in my team, feel free to contact me.
 </div>
