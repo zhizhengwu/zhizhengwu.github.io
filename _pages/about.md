@@ -20,7 +20,7 @@ Zhizheng Wu is an associate professor at the Chinese University of Hong Kong, Sh
 </div>
 
 <div align="justify">
-武执政博士现任香港中文大学（深圳）副教授。入选国家级青年人才，连续多次入选斯坦福大学“全球前2％顶尖科学家”、爱思唯尔“中国高被引学者”榜单。他于2015年获得南洋理工大学博士学位，并在Meta（原Facebook）、京东、苹果、爱丁堡大学、微软亚洲研究院等机构从事学术研究和技术领导工作。武博士带领开发了语音合成开源系统Merlin，发起并组织了第一届声纹识别欺骗检测国际评测、第一届语音转换国际评测，组织了2019年语音合成国际评测（Blizzard Challenge 2019）。曾获得INTERSPEECH 2016最佳学生论文奖、2012年亚太信号与信息处理协会年度峰会最佳论文奖。武博士现为IEEE语音与语言处理技术委员会委员，语音领域权威期刊IEEE/ACM Transactions on Audio, Speech and Language Processing的Associate Editor, IEEE Signal Processing Letters的Associate Editor, IEEE Spoken Language Technology Workshop 2024的大会主席。他曾受邀在ICASSP、IJCAI 2023 DADA Workshop等权威学术会议做特邀报告。
+武执政博士现任香港中文大学（深圳）副教授、博导，港中大深圳-趣丸科技联合实验室主任。入选国家级青年人才，连续多次入选斯坦福大学“全球前2％顶尖科学家”、爱思唯尔“中国高被引学者”榜单。他于2015年获得南洋理工大学博士学位，并在Meta（原Facebook）、京东、苹果、爱丁堡大学、微软亚洲研究院等机构从事学术研究和技术领导工作。武博士带领开发了语音合成开源系统Merlin、Amphion及开源数据库Emilia，发起并组织了第一届声纹识别欺骗检测国际评测、第一届语音转换国际评测，组织了2019年语音合成国际评测（Blizzard Challenge 2019）。曾获得INTERSPEECH最佳学生论文奖、亚太信号与信息处理协会年度峰会最佳论文奖。武博士现为IEEE语音与语言处理技术委员会委员，语音领域权威期刊IEEE/ACM Transactions on Audio, Speech and Language Processing的Associate Editor, IEEE Signal Processing Letters的Associate Editor, IEEE Spoken Language Technology Workshop 2024的大会主席。他曾受邀在ICASSP、IJCAI 2023 DADA Workshop等权威学术会议做特邀报告。
 </div>
 
 
