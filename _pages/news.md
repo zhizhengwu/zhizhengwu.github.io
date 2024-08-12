@@ -4,6 +4,7 @@ title: "News"
 ---
 
 ### News
+- 2024-07-10：十万小时的[Emilia](https://arxiv.org/abs/2407.05361)数据集已开源
 - 2024-05-08: 团建及联合实验室开工酒 [team building](../images/team_building_may_2024.jpg)
 - 2024-05-04: 武博士受邀担任[IEEE Signal Processing Letters](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters)的编委
 - 2024-05-02: [NaturalSpeech 3](https://arxiv.org/abs/2403.03100)被ICML接收。NS3中的FACodec已在[Amphion](https://github.com/open-mmlab/Amphion)中开源。

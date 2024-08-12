@@ -13,15 +13,13 @@ My team is broadly interested in audio and speech processing, multi-modality, De
 
 ## Team members
 
-### Post-docs
-
-- [Liumeng Xue](https://scholar.google.com/citations?user=KNqxVT0AAAAJ&hl=en) (Ex-Microsoft, Ex-JD, PhD from Northwestern Polytechnical University)
 
 ### PhD & MPhil students
 
 - [Xueyao Zhang](https://www.zhangxueyao.com/) (2022 Fall) 入选“腾讯犀牛鸟精英人才计划”
 - [Li Wang](https://wwwwwli.github.io/) (2023 Fall) 
 - [Yuancheng Wang](https://arxiv.org/abs/2304.00830) (2023 Fall)
+- [Dekun Chen] (2024 Fall) UG from CUHK-Shenzhen
 - [Jiaqi Li] (2024 Fall) UG from CUHK-Shenzhen, Intern@Microsoft Research
 - [Junan Zhang] (2024 Fall) UG from Fudan University
 - [Zihao Fang] (2024 Fall MPhil) UG from CUHK-Shenzhen
