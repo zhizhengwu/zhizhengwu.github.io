@@ -63,6 +63,7 @@ Zhizheng Wu is an associate professor at the Chinese University of Hong Kong, Sh
 - [Audio DeepFake Detection](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36b94b60-ad33-468d-93e6-ac5d0108f78a), Johns Hopkins University, 2020
 
 ### Teaching
+- CSC1001 Introduction to Computer Science: Programming Methodology (2024 Fall)
 - [CSC3160 Fundamentals of Speech and Language Processing](https://drwuz.com/CSC3160/) (2024 Spring)
 - [CSC4050 Computing Capstone](https://drwuz.com/csc4050/) (2024 Spring)
 - [CSC3160 Fundamentals of Speech and Language Processing](https://slpcourse.github.io/) (2023 Spring)

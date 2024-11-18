@@ -4,6 +4,12 @@ title: "News"
 ---
 
 ### News
+- 2024-11-18：Amphion now has 7.6k stars! Congrats to team!
+- 2024-11-09：Dr. Wu gave an invited talk on data processing for large-scale speech model.
+- 2024-11-07：Dr. Wu gave a tutorial on ["Advances in the development of large-scale speech generation model"](http://www.iscslp2024.com/homeTutorials) at ISCSLP 2024.
+- 2024-10-26：受邀在2024年RTE大会上做"有情商的语音大模型"报告.
+- 2024-10-20：Congrats to Li Wang, who received the [best presentation award](../images/liwang_award_2024.jpeg) from the Speaker Processing workshop in Beijing.
+- 2024-09-02：Dr. Wu gave an invited survey talk on 'Zero-Shot Text-to-Speech Synthesis' at Interspeech 2024.
 - 2024-07-10：十万小时的[Emilia](https://arxiv.org/abs/2407.05361)数据集已开源
 - 2024-05-08: 团建及联合实验室开工酒 [team building](../images/team_building_may_2024.jpg)
 - 2024-05-04: 武博士受邀担任[IEEE Signal Processing Letters](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters)的编委
@@ -18,7 +24,7 @@ title: "News"
 - 2024-01-19: 带领学生们访问香港中文大学本部李丹教授和孔秋强教授实验室。
 - 2024-01-01: 深圳市跨模态认知重点实验室获批（主任：李海洲教授，副主任：于天维教授、武执政博士）。
 - Dec 18th, 2023: <a href="https://github.com/open-mmlab/Amphion">Amphion v0.1</a> is released. It is rated as an A+++ project by <a href="https://www.bilibili.com/video/BV18w411V7iq">top Silcon Valley investor</a>.
-- Dec 9th, 2023: Three papers from my team are accepted by ICASSP 2024. Congrants to Yicheng, Jiaqi and Li.
+- Dec 9th, 2023: Three papers from my team are accepted by ICASSP 2024. Congrats to Yicheng, Jiaqi and Li.
 - Oct 26th, 2023: Congrats to Xueyao Zhang (2nd year PhD student CUHK-Shenzhen) and team, whose [paper on Singing Voice Conversion](https://arxiv.org/abs/2310.11160) accepted by <span style="color:blue">NeurIPS 2023 Workshop on Machine Learning for Audio.</span>
 - Oct 20th, 2023: Prof. Zhizheng Wu [gave an invited talk on voice anti-spoofing at the Symposium on Speaker Verification and its Application](https://mp.weixin.qq.com/s/eEOGWlp_vLEyZXi-M5plGQ).
 - Oct 19th, 2023: Prof. Zhizheng Wu [visited Nankai University, and was appointed as an external advisor](https://news.nankai.edu.cn/dcxy/system/2023/10/21/030058409.shtml).
