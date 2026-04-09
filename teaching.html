@@ -7,31 +7,46 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:wght@400;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:wght@500;600;700&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./style.css" />
   </head>
-  <body class="page-body">
-    <main class="page-main">
-      <header class="page-header">
-        <a class="text-link" href="index.html">&larr; Back to Home</a>
-        <p class="eyebrow">Courses</p>
-        <h1>Teaching</h1>
-        <p>A collection of courses taught or coordinated at CUHK-Shenzhen and other institutions.</p>
+  <body>
+    <div class="page-frame page-frame--narrow">
+      <header class="topbar topbar--simple">
+        <a class="brand" href="index.html">
+          <span class="brand__mark">ZW</span>
+          <span class="brand__text">
+            <strong>Zhizheng Wu</strong>
+            <span>Teaching</span>
+          </span>
+        </a>
+        <nav class="topnav" aria-label="Secondary">
+          <a href="index.html">Home</a>
+          <a href="news.html">News</a>
+        </nav>
       </header>
 
-      <section class="stack">
-        <article class="card row-card"><span>Fall 2024</span><p><strong>CSC1001</strong> Introduction to Computer Science: Programming Methodology, Instructor</p></article>
-        <article class="card row-card"><span>Fall 2024</span><p><strong>CSC6137</strong> Generative Models, Instructor</p></article>
-        <article class="card row-card"><span>Spring 2024</span><p><strong>CSC3160</strong> Fundamentals of Speech and Language Processing, Instructor</p></article>
-        <article class="card row-card"><span>Spring 2024</span><p><strong>CSC4050</strong> Computing Capstone, Founding Coordinator</p></article>
-        <article class="card row-card"><span>Spring 2024</span><p><strong>AIR6063</strong> Spoken Language Processing, Instructor</p></article>
-        <article class="card row-card"><span>Spring 2023</span><p><strong>MDS6002</strong> Natural Language Processing, Instructor</p></article>
-        <article class="card row-card"><span>Spring 2023</span><p><strong>CSC3160</strong> Fundamentals of Speech and Language Processing, Founding Instructor</p></article>
-        <article class="card row-card"><span>Fall 2022</span><p><strong>CSC3100</strong> Data Structures, Instructor</p></article>
-        <article class="card row-card"><span>Aug 2017</span><p><strong>INTERSPEECH Tutorial</strong> Deep Learning for Text-to-Speech Synthesis, Tutorial</p></article>
-      </section>
-    </main>
+      <main class="archive-page">
+        <section class="archive-hero">
+          <p class="kicker">Courses</p>
+          <h1>Teaching</h1>
+          <p>Courses taught or coordinated at CUHK-Shenzhen and related venues.</p>
+        </section>
+
+        <section class="course-grid">
+          <article class="course-card"><span>Fall 2024</span><h2>CSC1001</h2><p>Introduction to Computer Science: Programming Methodology</p><strong>Instructor</strong></article>
+          <article class="course-card"><span>Fall 2024</span><h2>CSC6137</h2><p>Generative Models</p><strong>Instructor</strong></article>
+          <article class="course-card"><span>Spring 2024</span><h2>CSC3160</h2><p>Fundamentals of Speech and Language Processing</p><strong>Instructor</strong></article>
+          <article class="course-card"><span>Spring 2024</span><h2>CSC4050</h2><p>Computing Capstone</p><strong>Founding Coordinator</strong></article>
+          <article class="course-card"><span>Spring 2024</span><h2>AIR6063</h2><p>Spoken Language Processing</p><strong>Instructor</strong></article>
+          <article class="course-card"><span>Spring 2023</span><h2>MDS6002</h2><p>Natural Language Processing</p><strong>Instructor</strong></article>
+          <article class="course-card"><span>Spring 2023</span><h2>CSC3160</h2><p>Fundamentals of Speech and Language Processing</p><strong>Founding Instructor</strong></article>
+          <article class="course-card"><span>Fall 2022</span><h2>CSC3100</h2><p>Data Structures</p><strong>Instructor</strong></article>
+          <article class="course-card"><span>Aug 2017</span><h2>INTERSPEECH Tutorial</h2><p>Deep Learning for Text-to-Speech Synthesis</p><strong>Tutorial</strong></article>
+        </section>
+      </main>
+    </div>
   </body>
 </html>
