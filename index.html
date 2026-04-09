@@ -15,35 +15,6 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./style.css" />
-    <script src="https://interview.amphion.top/avatar/frame/avatarframe.js"></script>
-    <script>
-    window.AvatarFrame.init({
-    siteId: "drwuz.com",
-    agentId: "drwuz.com",
-    apiBaseUrl: "https://interview.amphion.top",
-    transport: {
-      sessionPath: "/avatar/api/agent/session",
-      chatPath: "/avatar/api/agent/chat",
-      actionPath: "/avatar/api/agent/action"
-    },
-    defaultOpen: false,
-    greeting: "Hey, I am Prof. Wu's AI Assistant and am here to help you",
-    launcher: {
-      label: "start assistant",
-      position: "bottom-right",
-      visible: true
-    },
-
-    branding: {
-      displayName: "Prof Wu's AI Assistant",
-      welcomeBody: "What can I help you?",
-      theme: {
-        accentColor: "#4f46e5"
-      }
-    }
-    });
-    </script>   
-
   </head>
   <body>
     <div class="site-shell">
@@ -388,5 +359,35 @@
         </footer>
       </main>
     </div>
+    <script src="https://interview.amphion.top/avatar/frame/avatarframe.js"></script>
+    <script>
+    window.AvatarFrame.init({
+      siteId: "drwuz.com",
+      agentId: "drwuz.com",
+      apiBaseUrl: "https://interview.amphion.top",
+      transport: {
+        sessionPath: "/avatar/api/agent/session",
+        chatPath: "/avatar/api/agent/chat",
+        actionPath: "/avatar/api/agent/action"
+      },
+      defaultOpen: false,
+      greeting: "Hey, I am Prof. Wu's AI Assistant and am here to help you",
+      launcher: {
+        label: "start assistant",
+        position: "bottom-right",
+        visible: true
+      },
+
+      branding: {
+        displayName: "Prof Wu's AI Assistant",
+        welcomeBody: "What can I help you?",
+        theme: {
+          accentColor: "#4f46e5"
+        }
+      }
+      }
+      );
+    </script>   
+
   </body>
 </html>
