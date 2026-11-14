@@ -418,3 +418,40 @@ footer a { color: var(--muted); }
   .video-label { left: 12px; bottom: 8px; }
   .video-meta { font-size: 12px; }
 }
+
+/* ---------- Contact topics, QR codes, openings ---------- */
+.contact .contact-lead { margin: 22px 0 0; font-size: 16px; color: var(--muted); }
+.contact .contact-topics { margin: 12px 0 0; }
+.contact .address { margin: 28px 0 0; }
+.follow { display: flex; flex-wrap: wrap; gap: 28px; margin-top: 32px; }
+.follow figure { margin: 0; width: 148px; }
+.follow img { display: block; width: 100%; height: auto; border: 1px solid var(--rule); border-radius: 6px; background: #fff; }
+.follow figcaption { margin-top: 8px; font-size: 14px; color: var(--muted); line-height: 1.4; }
+.follow figcaption strong { display: block; color: var(--ink); font-weight: 600; }
+.openings { border: 1px solid var(--ink); border-radius: 8px; padding: 28px; }
+.openings p { margin: 14px 0 0; }
+.openings .statement { margin: 0; }
+.openings .links { margin-top: 22px; }
+
+/* ---------- English / 中文 ---------- */
+html:not(.zh) .zh { display: none !important; }
+html.zh .en { display: none !important; }
+html.zh {
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Songti SC", "STSong", "Source Han Serif SC", "Noto Serif CJK SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+html.zh h1 { letter-spacing: 0.04em; }
+html.zh .eyebrow, html.zh .section h2 { letter-spacing: 0.2em; }
+.lang-switch { display: inline-flex; gap: 6px; white-space: nowrap; color: var(--muted); }
+.lang-switch button {
+  padding: 0;
+  border: 0;
+  background: none;
+  font: inherit;
+  letter-spacing: 0.02em;
+  color: var(--muted);
+  cursor: pointer;
+}
+.lang-switch button:hover { color: var(--ink); }
+.lang-switch button:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
+html:not(.zh) .lang-switch [data-lang="en"],
+html.zh .lang-switch [data-lang="zh"] { color: var(--ink); font-weight: 600; }
