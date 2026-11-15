@@ -42,3 +42,19 @@ document.querySelectorAll("a.video-poster[data-bvid]").forEach(function (poster)
   });
   apply(root.classList.contains("zh") ? "zh" : "en");
 })();
+
+// Latest news on the homepage: the HTML holds a copy of the newest items, and this refreshes it
+// from the news page so the two never drift apart.
+document.querySelectorAll("ul[data-latest]").forEach(function (list) {
+  if (!window.fetch || !window.DOMParser) return;
+  fetch(list.dataset.latest)
+    .then(function (r) { return r.ok ? r.text() : Promise.reject(); })
+    .then(function (html) {
+      var doc = new DOMParser().parseFromString(html, "text/html");
+      var items = Array.prototype.slice.call(doc.querySelectorAll("ul.log > li"), 0, +list.dataset.count || 3);
+      if (!items.length) return;
+      list.textContent = "";
+      items.forEach(function (li) { list.appendChild(document.importNode(li, true)); });
+    })
+    .catch(function () {});
+});

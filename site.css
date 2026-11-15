@@ -455,3 +455,6 @@ html.zh .eyebrow, html.zh .section h2 { letter-spacing: 0.2em; }
 .lang-switch button:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
 html:not(.zh) .lang-switch [data-lang="en"],
 html.zh .lang-switch [data-lang="zh"] { color: var(--ink); font-weight: 600; }
+
+/* Talks list under the interview video */
+.entries.talks { margin-top: 32px; padding-top: 24px; border-top: 1px solid var(--rule); }
